@@ -8,3 +8,7 @@
  
 ### Notice
 * Never resume a coroutine which is waiting for other coroutine to yield.
+
+### Requirement
+* g++
+* c++0x
